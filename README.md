@@ -7,7 +7,7 @@ Este é um desafio, utilizando JavaScript, no qual implementa uma função que r
 Siga as instruções abaixo para rodar o projeto localmente.
 
 ### Pré-requisitos
-Certifique-se de ter o Node.js instalado. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
+Certifique-se de ter o Node.js instalado.
 
 ### Instalação
 1. Clone este repositório:
