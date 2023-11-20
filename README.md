@@ -12,7 +12,7 @@ Certifique-se de ter o Node.js instalado.
 ### Instalação
 1. Clone este repositório:
 ```sh
-git clone https://github.com/myllenammartins/desafio-1-escribo.git
+git clone https://github.com/myllenammartins/desafio-1-escribo
 ```
 2. Navegue até o diretório do projeto:
 ```sh
